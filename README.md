@@ -1,4 +1,4 @@
-# bulk_rna_processing using SLURM (HPC)
+# Bulk RNA-seq processing using SLURM (HPC)
 
 ## WSL and Ubuntu Installation
 ```
